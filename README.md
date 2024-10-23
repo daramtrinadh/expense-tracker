@@ -204,7 +204,7 @@ curl -X GET http://localhost:3000/api/summary
 ## Screenshots
 
 ### 1. Adding a New Transaction
-![Add Transaction Screenshot](./screenshots/post-transactions.png)
+![Add Transaction Screenshot](./screenshots/post-transaction.png)
 
 ### 2. Retrieving All Transactions
 ![Get Transactions Screenshot](./screenshots/get-transactions.png)
